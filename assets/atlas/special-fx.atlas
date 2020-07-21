@@ -1,0 +1,137 @@
+{
+  "version": 3,
+  "files": [
+    "Design/special-fx/flaime1-1.png",
+    "Design/special-fx/flaime1-2.png",
+    "Design/special-fx/flaime1-3.png",
+    "Design/special-fx/flaime1-4.png"
+  ],
+  "settings": {
+    "pot": false,
+    "paddingX": 2,
+    "paddingY": 2,
+    "edgePadding": true,
+    "duplicatePadding": false,
+    "rotation": false,
+    "minWidth": 16,
+    "minHeight": 16,
+    "maxWidth": 1024,
+    "maxHeight": 1024,
+    "square": false,
+    "stripWhitespaceX": true,
+    "stripWhitespaceY": true,
+    "alphaThreshold": 0,
+    "filterMin": "Nearest",
+    "filterMag": "Nearest",
+    "wrapX": "ClampToEdge",
+    "wrapY": "ClampToEdge",
+    "format": "RGBA8888",
+    "alias": true,
+    "outputFormat": "png",
+    "jpegQuality": 0.8999999761581421,
+    "ignoreBlankImages": true,
+    "fast": false,
+    "debug": false,
+    "silent": false,
+    "combineSubdirectories": false,
+    "flattenPaths": false,
+    "premultiplyAlpha": false,
+    "useIndexes": false,
+    "bleed": true,
+    "limitMemory": false,
+    "grid": false,
+    "atlasExtension": ".atlas",
+    "multiatlas": true,
+    "includeNumberOfFolders": 0
+  },
+  "pages": [{"frames": [
+    {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 5,
+        "h": 32
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 5,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 5,
+        "h": 32
+      },
+      "name": "flaime1-1",
+      "regionIndex": -1
+    },
+    {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 9,
+        "y": 5,
+        "w": 5,
+        "h": 29
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 5,
+        "h": 29
+      },
+      "sourceSize": {
+        "w": 5,
+        "h": 32
+      },
+      "name": "flaime1-2",
+      "regionIndex": -1
+    },
+    {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 16,
+        "y": 8,
+        "w": 5,
+        "h": 26
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 5,
+        "h": 26
+      },
+      "sourceSize": {
+        "w": 5,
+        "h": 32
+      },
+      "name": "flaime1-3",
+      "regionIndex": -1
+    },
+    {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 23,
+        "y": 12,
+        "w": 5,
+        "h": 22
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 5,
+        "h": 22
+      },
+      "sourceSize": {
+        "w": 5,
+        "h": 32
+      },
+      "name": "flaime1-4",
+      "regionIndex": -1
+    }
+  ]}]
+}

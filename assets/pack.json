@@ -1,0 +1,70 @@
+{
+  "section1": {"files": [
+    {
+      "type": "animation",
+      "key": "animations",
+      "url": "assets/animations.json"
+    },
+    {
+      "type": "sceneFile",
+      "key": "Scene1",
+      "url": "assets/scenes/Scene1.js"
+    },
+    {
+      "type": "multiatlas",
+      "key": "ships",
+      "url": "assets/atlas/ships.json",
+      "path": "assets/atlas"
+    },
+    {
+      "type": "multiatlas",
+      "key": "asteroids",
+      "url": "assets/atlas/asteroids.json",
+      "path": "assets/atlas"
+    },
+    {
+      "type": "script",
+      "key": "fpsText1",
+      "url": "assets/plugin/fpsText.js"
+    },
+    {
+      "type": "script",
+      "key": "asteroid",
+      "url": "assets/objects/asteroid.js"
+    },
+    {
+      "type": "multiatlas",
+      "key": "weapon",
+      "url": "assets/atlas/weapon.json",
+      "path": "assets/atlas"
+    },
+    {
+      "type": "script",
+      "key": "shotgun",
+      "url": "assets/objects/shotgun.js"
+    },
+    {
+      "type": "multiatlas",
+      "key": "special-fx",
+      "url": "assets/atlas/special-fx.json",
+      "path": "assets/atlas"
+    },
+    {
+      "type": "script",
+      "key": "ship",
+      "url": "assets/objects/ship.js"
+    },
+    {
+      "type": "script",
+      "key": "score",
+      "url": "assets/objects/interface/score.js"
+    }
+  ]},
+  "meta": {
+    "generated": "1594038677573",
+    "app": "Phaser Editor 2D - Asset Pack Editor - 2.1.6",
+    "contentType": "Phaser v3 Asset Pack",
+    "url": "https://phasereditor2d.com",
+    "version": "2"
+  }
+}

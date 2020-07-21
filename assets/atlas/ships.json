@@ -1,0 +1,74 @@
+{
+  "textures": [{
+    "image": "ships.png",
+    "frames": [
+      {
+        "filename": "ship-1",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 2,
+          "y": 2,
+          "w": 106,
+          "h": 99
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 106,
+          "h": 99
+        },
+        "sourceSize": {
+          "w": 106,
+          "h": 99
+        }
+      },
+      {
+        "filename": "ship-1-left",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 110,
+          "y": 8,
+          "w": 93,
+          "h": 93
+        },
+        "spriteSourceSize": {
+          "x": 1,
+          "y": 3,
+          "w": 93,
+          "h": 93
+        },
+        "sourceSize": {
+          "w": 106,
+          "h": 99
+        }
+      },
+      {
+        "filename": "ship-1-rigth",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 205,
+          "y": 8,
+          "w": 93,
+          "h": 93
+        },
+        "spriteSourceSize": {
+          "x": 13,
+          "y": 3,
+          "w": 93,
+          "h": 93
+        },
+        "sourceSize": {
+          "w": 106,
+          "h": 99
+        }
+      }
+    ]
+  }],
+  "meta": {
+    "app": "Phaser Editor - Atlas Generator",
+    "version": "2"
+  }
+}

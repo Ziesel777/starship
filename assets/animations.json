@@ -1,0 +1,57 @@
+{
+  "anims": [
+    {
+      "key": "shot",
+      "frameRate": 3,
+      "repeat": -1,
+      "yoyo": true,
+      "showOnStart": true,
+      "frames": [
+        {
+          "key": "weapon",
+          "frame": "shot-2-1"
+        },
+        {
+          "key": "weapon",
+          "frame": "shot-2-2"
+        },
+        {
+          "key": "weapon",
+          "frame": "shot-2-3"
+        },
+        {
+          "key": "weapon",
+          "frame": "shot-2-4"
+        }
+      ]
+    },
+    {
+      "key": "flame-ship",
+      "frameRate": 24,
+      "repeat": -1,
+      "yoyo": true,
+      "frames": [
+        {
+          "key": "special-fx",
+          "frame": "flame1-1"
+        },
+        {
+          "key": "special-fx",
+          "frame": "flame1-2"
+        },
+        {
+          "key": "special-fx",
+          "frame": "flame1-3"
+        },
+        {
+          "key": "special-fx",
+          "frame": "flame1-4"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "app": "Phaser Editor v2",
+    "contentType": "Phaser v3 Animations"
+  }
+}

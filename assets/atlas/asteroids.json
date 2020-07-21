@@ -1,0 +1,53 @@
+{
+  "textures": [{
+    "image": "asteroids.png",
+    "frames": [
+      {
+        "filename": "astr-1",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 97,
+          "y": 5,
+          "w": 89,
+          "h": 75
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 89,
+          "h": 75
+        },
+        "sourceSize": {
+          "w": 89,
+          "h": 75
+        }
+      },
+      {
+        "filename": "astr-p-1",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 2,
+          "y": 2,
+          "w": 93,
+          "h": 78
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 93,
+          "h": 78
+        },
+        "sourceSize": {
+          "w": 93,
+          "h": 78
+        }
+      }
+    ]
+  }],
+  "meta": {
+    "app": "Phaser Editor - Atlas Generator",
+    "version": "2"
+  }
+}

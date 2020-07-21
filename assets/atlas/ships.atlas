@@ -1,0 +1,114 @@
+{
+  "version": 3,
+  "files": [
+    "Design/ship-1.png",
+    "Design/ship-1-left.png",
+    "Design/ship-1-rigth.png"
+  ],
+  "settings": {
+    "pot": false,
+    "paddingX": 2,
+    "paddingY": 2,
+    "edgePadding": true,
+    "duplicatePadding": false,
+    "rotation": false,
+    "minWidth": 16,
+    "minHeight": 16,
+    "maxWidth": 1024,
+    "maxHeight": 1024,
+    "square": false,
+    "stripWhitespaceX": true,
+    "stripWhitespaceY": true,
+    "alphaThreshold": 0,
+    "filterMin": "Nearest",
+    "filterMag": "Nearest",
+    "wrapX": "ClampToEdge",
+    "wrapY": "ClampToEdge",
+    "format": "RGBA8888",
+    "alias": true,
+    "outputFormat": "png",
+    "jpegQuality": 0.8999999761581421,
+    "ignoreBlankImages": true,
+    "fast": false,
+    "debug": false,
+    "silent": false,
+    "combineSubdirectories": false,
+    "flattenPaths": false,
+    "premultiplyAlpha": false,
+    "useIndexes": false,
+    "bleed": true,
+    "limitMemory": false,
+    "grid": false,
+    "atlasExtension": ".atlas",
+    "multiatlas": true,
+    "includeNumberOfFolders": 0
+  },
+  "pages": [{"frames": [
+    {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 106,
+        "h": 99
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 106,
+        "h": 99
+      },
+      "sourceSize": {
+        "w": 106,
+        "h": 99
+      },
+      "name": "ship-1",
+      "regionIndex": -1
+    },
+    {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 110,
+        "y": 8,
+        "w": 93,
+        "h": 93
+      },
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 3,
+        "w": 93,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 106,
+        "h": 99
+      },
+      "name": "ship-1-left",
+      "regionIndex": -1
+    },
+    {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 205,
+        "y": 8,
+        "w": 93,
+        "h": 93
+      },
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 3,
+        "w": 93,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 106,
+        "h": 99
+      },
+      "name": "ship-1-rigth",
+      "regionIndex": -1
+    }
+  ]}]
+}

@@ -1,0 +1,94 @@
+{
+  "-app": "Scene Editor - Phaser Editor v2.1.6",
+  "-version": 1,
+  "compilerLang": "JAVA_SCRIPT_6",
+  "displayList": {
+    "-id": "8d715559-399d-42e9-9525-4a1dc0336b31",
+    "-type": "DisplayList",
+    "children": [
+      {
+        "-id": "b5af889c-3858-4e83-b798-dedd2a992fa1",
+        "-type": "Sprite",
+        "children": [],
+        "variableName": "flaime1-_1",
+        "variableField": false,
+        "x": 351.3194580078125,
+        "y": 438.2732849121094,
+        "textureKey": "special-fx",
+        "textureFrame": "flaime1-1",
+        "autoPlayAnimKey": "flame-ship"
+      },
+      {
+        "-id": "d086593e-2eab-4a97-9198-e17d914c2892",
+        "-type": "Sprite",
+        "children": [],
+        "variableName": "flaime1-1",
+        "variableField": false,
+        "x": 417.9930725097656,
+        "y": 438.47113037109375,
+        "textureKey": "special-fx",
+        "textureFrame": "flaime1-1",
+        "autoPlayAnimKey": "flame-ship"
+      },
+      {
+        "-id": "5787023f-9c3f-421a-ba8c-c952b0a468a1",
+        "-type": "Sprite",
+        "children": [],
+        "variableName": "playerShip",
+        "variableField": true,
+        "x": 384,
+        "y": 405,
+        "scaleX": 0.699999988079071,
+        "scaleY": 0.699999988079071,
+        "textureKey": "ships",
+        "textureFrame": "ship-1"
+      },
+      {
+        "-id": "4f56481b-08a3-4271-80f6-5f8b000d422a",
+        "-type": "Sprite",
+        "children": [],
+        "variableName": "astr_1",
+        "variableField": true,
+        "x": 384,
+        "y": -29.83771324157715,
+        "scaleX": 0.6000000238418579,
+        "scaleY": 0.699999988079071,
+        "textureKey": "asteroids",
+        "textureFrame": "astr-1"
+      },
+      {
+        "-id": "985a1fc2-c80b-4090-b158-65ac998c037f",
+        "-type": "Image",
+        "children": [],
+        "variableName": "shot-1",
+        "variableField": false,
+        "x": 368.6932373046875,
+        "y": 380.775390625,
+        "textureKey": "weapon",
+        "textureFrame": "shot-1"
+      },
+      {
+        "-id": "fa11af8a-7a55-4b05-b869-a0beab1da78c",
+        "-type": "Sprite",
+        "children": [],
+        "variableName": "shot-_1",
+        "variableField": false,
+        "x": 401.0245361328125,
+        "y": 367.5872802734375,
+        "textureKey": "weapon",
+        "textureFrame": "shot-1",
+        "autoPlayAnimKey": "shot"
+      }
+    ]
+  },
+  "groups": {
+    "-id": "89eecac1-e75a-4225-a3ba-7ac59572410e",
+    "-type": "Groups",
+    "children": []
+  },
+  "backgroundColor": "102,102,102",
+  "borderHeight": 450,
+  "createMethodName": "_create",
+  "methodContextType": "SCENE",
+  "sceneKey": "Scene1"
+}

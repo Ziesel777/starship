@@ -1,0 +1,137 @@
+{
+  "textures": [{
+    "image": "weapon.png",
+    "frames": [
+      {
+        "filename": "parts",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 21,
+          "y": 38,
+          "w": 2,
+          "h": 2
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 2,
+          "h": 2
+        },
+        "sourceSize": {
+          "w": 2,
+          "h": 2
+        }
+      },
+      {
+        "filename": "shot-1",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 21,
+          "y": 42,
+          "w": 7,
+          "h": 34
+        },
+        "spriteSourceSize": {
+          "x": 1,
+          "y": 0,
+          "w": 7,
+          "h": 34
+        },
+        "sourceSize": {
+          "w": 8,
+          "h": 34
+        }
+      },
+      {
+        "filename": "shot-2-1",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 12,
+          "y": 39,
+          "w": 7,
+          "h": 37
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 7,
+          "h": 37
+        },
+        "sourceSize": {
+          "w": 8,
+          "h": 37
+        }
+      },
+      {
+        "filename": "shot-2-2",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 11,
+          "y": 4,
+          "w": 8,
+          "h": 33
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 8,
+          "h": 33
+        },
+        "sourceSize": {
+          "w": 8,
+          "h": 33
+        }
+      },
+      {
+        "filename": "shot-2-3",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 2,
+          "y": 39,
+          "w": 8,
+          "h": 37
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 8,
+          "h": 37
+        },
+        "sourceSize": {
+          "w": 8,
+          "h": 37
+        }
+      },
+      {
+        "filename": "shot-2-4",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 2,
+          "y": 2,
+          "w": 7,
+          "h": 35
+        },
+        "spriteSourceSize": {
+          "x": 1,
+          "y": 0,
+          "w": 7,
+          "h": 35
+        },
+        "sourceSize": {
+          "w": 8,
+          "h": 35
+        }
+      }
+    ]
+  }],
+  "meta": {
+    "app": "Phaser Editor - Atlas Generator",
+    "version": "2"
+  }
+}

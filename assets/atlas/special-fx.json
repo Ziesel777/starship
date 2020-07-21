@@ -1,0 +1,95 @@
+{
+  "textures": [{
+    "image": "special-fx.png",
+    "frames": [
+      {
+        "filename": "flame1-1",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 2,
+          "y": 2,
+          "w": 5,
+          "h": 32
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 5,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 5,
+          "h": 32
+        }
+      },
+      {
+        "filename": "flame1-2",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 9,
+          "y": 5,
+          "w": 5,
+          "h": 29
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 5,
+          "h": 29
+        },
+        "sourceSize": {
+          "w": 5,
+          "h": 32
+        }
+      },
+      {
+        "filename": "flame1-3",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 16,
+          "y": 8,
+          "w": 5,
+          "h": 26
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 5,
+          "h": 26
+        },
+        "sourceSize": {
+          "w": 5,
+          "h": 32
+        }
+      },
+      {
+        "filename": "flame1-4",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 23,
+          "y": 12,
+          "w": 5,
+          "h": 22
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 5,
+          "h": 22
+        },
+        "sourceSize": {
+          "w": 5,
+          "h": 32
+        }
+      }
+    ]
+  }],
+  "meta": {
+    "app": "Phaser Editor - Atlas Generator",
+    "version": "2"
+  }
+}
